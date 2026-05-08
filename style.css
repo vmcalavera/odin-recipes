@@ -1,0 +1,14 @@
+body {
+    background: lightblue;
+}
+
+.page {
+    width: 400px;
+    background: orange;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+
+.title {
+    text-align: center;
+}
